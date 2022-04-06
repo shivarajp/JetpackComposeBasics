@@ -1,6 +1,7 @@
 # JetpackComposeBasics
 
 New jetpack compose basics.
+
 - Row
 - Coloumn
 - Box
@@ -14,38 +15,37 @@ New jetpack compose basics.
 - Canvas
 - LaunchedEffect
 
-
-
 ### Animated VolumeButton
 
 <table>
 
   <tr>
     <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/volumebutton.gif" width="280" /></td>
-  </tr>
+    <td/>
+    <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/animatedprogressbar.gif" width="280"/></td>
+  
+</tr>
  </table>
- 
+
 ### Animated CircularProgressBar
 
 <table>
- 
-  <tr>
-    <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/animatedprogressbar.gif" width="280"/></td>
-  </tr>
+
+
  </table>
- 
+
 ### Snack Bar
- 
+
  <table>
-  
+
   <tr>
     <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/snackbar.gif" width="280"/></td>
-    
+
   </tr>
  </table>
 
-
 ### List lazycolum
+
 <table>
 
   <tr>
