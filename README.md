@@ -19,12 +19,9 @@ New jetpack compose basics.
 ### Animated VolumeButton
 
 <table>
+
   <tr>
-    <td>Home</td>
-     <td>Home</td>
-  </tr>
-  <tr>
-    <td><img src="" width="280" /></td>
+    <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/volumebutton.gif" width="280" /></td>
   </tr>
  </table>
  
@@ -33,17 +30,26 @@ New jetpack compose basics.
 <table>
  
   <tr>
-    <td><img src="" width="280"/></td>
+    <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/animatedprogressbar.gif" width="280"/></td>
   </tr>
  </table>
  
-### Moving Box
+### Snack Bar
  
  <table>
   
   <tr>
-    <td><img src="" width="280"/></td>
+    <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/snackbar.gif" width="280"/></td>
     
   </tr>
  </table>
- 
+
+
+### List lazycolum
+<table>
+
+  <tr>
+    <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/list.gif" width="280"/></td>
+
+  </tr>
+ </table>
