@@ -15,7 +15,7 @@ New jetpack compose basics.
 - Canvas
 - LaunchedEffect
 
-### Animated VolumeButton
+### Animated VolumeButton                                   Animated CircularProgressBar
 
 <table>
 
@@ -27,28 +27,18 @@ New jetpack compose basics.
 </tr>
  </table>
 
-### Animated CircularProgressBar
 
 <table>
 
 
  </table>
 
-### Snack Bar
+### Snack Bar                                           List lazycolum
 
  <table>
 
   <tr>
     <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/snackbar.gif" width="280"/></td>
-
-  </tr>
- </table>
-
-### List lazycolum
-
-<table>
-
-  <tr>
     <td><img src="https://github.com/shivarajp/JetpackComposeBasics/blob/master/art/list.gif" width="280"/></td>
 
   </tr>
