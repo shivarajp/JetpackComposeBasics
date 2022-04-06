@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeTaskManager</string>
+    <string name="title_activity_list_compose">ListComposeActivity</string>
+    <string name="title_activity_compose_cpnstraint_layout">ComposeCpnstraintLayout</string>
+    <string name="title_activity_compose_animation">ComposeAnimation</string>
+    <string name="title_activity_compose_animated_progress_bar">ComposeAnimatedProgressBar</string>
+    <string name="title_activity_compose_volume_button">ComposeVolumeButton</string>
+</resources>
