@@ -15,7 +15,7 @@ New jetpack compose basics.
 - Canvas
 - LaunchedEffect
 
-### Animated VolumeButton                                   Animated CircularProgressBar
+### Animated VolumeButton                          And        ** Animated CircularProgressBar
 
 <table>
 
@@ -33,7 +33,7 @@ New jetpack compose basics.
 
  </table>
 
-### Snack Bar                                           List lazycolum
+### Snack Bar                                     And      ** List lazycolum
 
  <table>
 
